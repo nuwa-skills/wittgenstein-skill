@@ -4,10 +4,9 @@
 
 > "凡是能够说的，都能够说清楚；凡是不能说的，就必须保持沉默。" —— 路德维希·维特根斯坦
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/wittgenstein-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Philosophy](https://img.shields.io/badge/Philosophy-Language_Logic-purple?style=flat-square)](https://github.com/Panmax/wittgenstein-skill)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将维特根斯坦的语言哲学、逻辑分析与沉默智慧蒸馏为 Claude Code 可执行的思维框架——让 AI 以极简、编号命题式、追问语言边界的风格回应你的每一个问题。**
 
 </div>
@@ -88,12 +87,12 @@ wittgenstein-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
-  <sub>对于不可言说之物，我们必须保持沉默。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
